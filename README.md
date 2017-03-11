@@ -1,5 +1,5 @@
 # Non-convex Projection Algorithm with Hessian Approximation
-![]({{site.baseurl}}/https://github.com/bustermachinej/nonconvexgpbb/raw/master/plot.png)
+![]({{site.baseurl}}/plot.png)
 This is the code to reproduce the experiments in https://arxiv.org/abs/1404.4132
 
 ## To get started
