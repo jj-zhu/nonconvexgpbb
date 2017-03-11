@@ -1,6 +1,6 @@
 # Non-convex Projection Algorithm with Hessian Approximation
 ![]({{site.baseurl}}//plot.png)
-This is the code to reproduce the experiment in https://arxiv.org/abs/1404.4132
+This is the code to reproduce the experiments in https://arxiv.org/abs/1404.4132
 
 ## To get started
 Simply execute `run_experiment.m` in MATLAB.
